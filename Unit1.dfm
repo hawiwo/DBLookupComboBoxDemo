@@ -50,7 +50,7 @@ object Form1: TForm1
   object FDQuery1: TFDQuery
     Connection = FDConnection1
     SQL.Strings = (
-      'select * from albums')
+      'select * from customers')
     Left = 424
     Top = 80
   end
